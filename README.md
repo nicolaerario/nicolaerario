@@ -1,4 +1,5 @@
-![Profile cover](https://github.com/nicolaerario/nicolaerario/blob/master/coding_bg_with_linkedin_qr.png)
+![Profile cover](https://user-images.githubusercontent.com/37365465/141819531-c4dbeac5-9ced-4a24-9e08-1c01fb7f975c.png)
+
 
 <!--
 **nicolaerario/nicolaerario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
