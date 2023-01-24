@@ -15,10 +15,14 @@ Here are some ideas to get you started:
 
 ## 💫 About Me:
 
-🔭 I’m currently working on [AlgoInterview](https://algointerview.it/)  
-🌱 I’m **always** learning  
-👯 I’m looking to collaborate on **OSS Projects**  
-💻 Linux distribution: **Arch Linux** _(btw)_  
+🔭 I’m currently working on [AlgoInterview](https://algointerview.it/)
+
+🌱 I’m **always** learning
+
+👯 I’m looking to collaborate on **OSS Projects**
+
+💻 Linux distribution: **Arch Linux** _(btw)_
+
 💬 Ask me about **Videogames**
 
 ## 💻 Tech Stack:
