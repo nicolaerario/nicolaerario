@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 👯 I’m looking to collaborate on **OSS Projects**
 
-💻 Linux distribution: **Arch Linux** _(btw)_
+💻 My Linux distribution is **Arch Linux** _(btw)_
 
 💬 Ask me about **Videogames**
 
