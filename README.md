@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on [AlgoInterview](https://algointerview.it/)
 
-🌱 I’m **always** learning
+🌱 I’m `always` learning
 
-👯 I’m looking to collaborate on **OSS Projects**
+👯 I’m looking to collaborate on `OSS Projects`
 
-💻 My Linux distribution is **Arch Linux** _(btw)_
+💻 My Linux distribution is `Arch Linux` _(btw...)_
 
-💬 Ask me about **Videogames**
+💬 Ask me about `Videogames`
 
 ## 💻 Tech Stack:
 
