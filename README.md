@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 💻 My Linux distribution is `Arch Linux` _(btw...)_
 
-💬 Ask me about `Videogames` and TV series
+💬 Ask me about `Videogames` and `TV series`
 
 ## 💻 Tech Stack:
 
