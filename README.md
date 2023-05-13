@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 💫 About Me:
+## <img width="48" src="https://github.githubassets.com/images/mona-loading-dimmed.gif" alt="nicolaerario github" align="center" /> About Me:
 
 🔭 I’m currently working on [AlgoInterview](https://algointerview.it/)
 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
-## 🌐 Socials:
+## 🌍 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolaerario)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=flat-square&logo=Reddit&logoColor=white)](https://reddit.com/user/nicolaerario)
