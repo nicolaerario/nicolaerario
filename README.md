@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## <img width="48" src="https://github.githubassets.com/images/mona-loading-dimmed.gif" alt="nicolaerario github" align="center" /> About Me:
 
-🔭 I’m currently working on [AlgoInterview](https://algointerview.it/)
+🔭 I’m currently working on [Skillvue](https://skillvue.ai/)
 
 🌱 I’m `always` learning
 
